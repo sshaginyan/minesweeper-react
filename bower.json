@@ -1,0 +1,21 @@
+{
+  "name": "minesweeper",
+  "description": "",
+  "main": "webpack.config.js",
+  "authors": [
+    "SShaginyan <SShaginyan@Gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^0.14.7"
+  }
+}
